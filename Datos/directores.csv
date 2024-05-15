@@ -1,11 +1,22 @@
 idDirector,nombre,edad,telefono,sexo
-1,Steven Spielberg,74,123456789,M
-2,Quentin Tarantino,58,987654321,M
-3,Sofia Coppola,50,555555555,F
-4,Christopher Nolan,51,444444444,M
-5,Pedro Almodóvar,72,333333333,M
-6,Greta Gerwig,38,666666666,F
-7,Alfonso Cuarón,60,222222222,M
-8,Martin Scorsese,79,777777777,M
-9,Lucrecia Martel,56,888888888,F
-10,Denis Villeneuve,54,999999999,M
+1,David Nutter,60,555-1234-5678,M
+2,Rian Johnson,49,555-9876-5432,M
+3,James Burrows,81,555-2468-1357,M
+4,Shawn Levy,53,555-8642-7913,M
+5,Bryan Spicer,55,555-3194-6285,M
+6,Stephen Daldry,61,555-9753-8641,M
+7,James Watkins,45,555-7382-9164,M
+8,José Padilha,54,555-4716-2938,M
+9,Otto Bathurst,48,555-6298-1374,M
+10,Taika Waititi,47,555-8246-3591,M
+11,Francis Ford Coppola,82,555-1234-5678,M
+12,Peter Jackson,60,555-9876-5432,M
+13,Robert Zemeckis,69,555-2345-6789,M
+14,James Cameron,67,555-8765-4321,M
+15,Christopher Nolan,53,555-4321-9876,M
+16,Steven Spielberg,75,555-6789-1234,M
+17,Roger Allers,72,555-3456-7891,M
+18,Rob Minkoff,72,555-3456-7891,M
+19,Lana Wachowski,57,555-4567-8912,F
+20,Lilly Wachowski,57,555-4567-8912,F
+21,Guillermo del Toro,58,555-8912-3456,M
