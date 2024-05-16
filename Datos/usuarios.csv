@@ -1,4 +1,4 @@
-idUsuario,nombre,edad,telefono,sexo,telefono_movil,email
+idUsuario,nombre,edad,telefono,sexo,telefonomovil,email
 1,"Ana García",30,"123456789","F","987654321","ana@example.com"
 2,"Pedro López",25,"987654321","M","123456789","pedro@example.com"
 3,"María Rodríguez",35,"555555555","F","666666666","maria@example.com"
